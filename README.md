@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align='center'>Hi 👋, I am Lakshya</h1>
+<h3 align='center'>Making Myself/ Me/ I and India Aatm Nirbhar🇮🇳💪🏻</h3>
 
-<!--
-**ojhalakshyaZ/ojhalakshyaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src=https://github.com/ojhalakshya/kartikdutt18/blob/master/565-5651738_namaste-namaste-symbol-clipart-removebg-preview.jpg?raw=true height='300' weight='300'></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭  I am an Software Engineering Intern @ [Zomato](https://www.zomato.com).
+
+- 📫 How to reach me **ojhalakshya@gmail.com**
+
+- 🌱 Learning the art of machine learning, self learning, life long learning and maybe guitar very soon 🕰.
+
+- 💪🏻 Coping up with the power of Anime 🔥 | AOT.
+
+- ⚡ Fun fact: **Killer whales are actually dolphins**🦈</p><h2 align='center'>Connect with me  📫 </h2>
