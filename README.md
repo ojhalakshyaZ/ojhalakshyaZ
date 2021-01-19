@@ -6,7 +6,7 @@
 
 - 🔭  I am an Software Engineering Intern @ [Zomato](https://www.zomato.com).
 
-- 📫 How to reach me **ojhalakshya@gmail.com**
+- 📫 How to reach me **ojhalakshya@gmail.com**, personal GITHUB username: [ojhalakshya](https://github.com/ojhalakshya)
 
 - 🌱 Learning the art of machine learning, self learning, life long learning and maybe guitar very soon 🕰.
 
